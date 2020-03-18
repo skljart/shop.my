@@ -1,5 +1,5 @@
 /* main */
-
+@import "https://fonts.googleapis.com/css?family=Inter|Lato:400,700,700i&display=swap&subset=cyrillic,cyrillic-ext" ;
 * {
 	font-family: "Comic Sans MS";
    }
@@ -17,3 +17,24 @@ body { background-color: rgb(248, 176, 238);
 font: size 3em;
 }
 ul l {text-transform: uppercase;}
+
+
+html {
+    font-size: 21px;
+}
+body{
+    font: 1em / 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
+ .wrapper {
+
+ }
+ .sidebar{
+
+ }
+ .navbar{
+
+ }
